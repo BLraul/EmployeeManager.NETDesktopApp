@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Luci\\Raul\\Facultate\\Facultate\\An 3\\Info an 3 sem 1\\Medii si instrumente de programare\\Proiect final semestru\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj": {}
+  },
+  "projects": {
+    "E:\\Luci\\Raul\\Facultate\\Facultate\\An 3\\Info an 3 sem 1\\Medii si instrumente de programare\\Proiect final semestru\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Luci\\Raul\\Facultate\\Facultate\\An 3\\Info an 3 sem 1\\Medii si instrumente de programare\\Proiect final semestru\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj",
+        "projectName": "EmployeeManager",
+        "projectPath": "E:\\Luci\\Raul\\Facultate\\Facultate\\An 3\\Info an 3 sem 1\\Medii si instrumente de programare\\Proiect final semestru\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj",
+        "packagesPath": "C:\\Users\\balaro\\.nuget\\packages\\",
+        "outputPath": "E:\\Luci\\Raul\\Facultate\\Facultate\\An 3\\Info an 3 sem 1\\Medii si instrumente de programare\\Proiect final semestru\\EmployeeManager\\EmployeeManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\balaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
